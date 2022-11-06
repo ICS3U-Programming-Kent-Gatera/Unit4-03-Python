@@ -5,7 +5,7 @@
 
 
 def main():
-    # This section deals with explaining the programs's function and defining variables.
+    # This section deals with explaining the programs's function and defining variables.:)
     loop_count = 0
     print(
         "This program program calculates and displays the power of 2 starting from 0 until this number."
